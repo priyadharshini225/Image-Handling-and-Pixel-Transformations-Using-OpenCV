@@ -214,7 +214,8 @@ plt.show()
 - ### **i)** Read and Display an Image.  
    1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-  ![alt text](<greyscale eagle.png>)
+  ![Uploading image.png…]()
+
 
   2.Save image as PNG and display:
 
